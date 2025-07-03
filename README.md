@@ -34,7 +34,7 @@ Each task in the tracker has the following properties:
 ### Installation
 
 1. **Clone or Download this repository.**
-2. Place `task_tracker.py` in your desired directory.
+2. Place `TaskTracker.py` in your desired directory.
 
 ### Running the App
 
@@ -55,7 +55,7 @@ python TaskTracker.py
 
 ## Customization
 
-- Colors and fonts can be adjusted in `task_tracker.py` for a personalized look.
+- Colors and fonts can be adjusted in `TaskTracker.py` for a personalized look.
 
 ---
 
